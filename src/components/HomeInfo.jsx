@@ -28,14 +28,14 @@ const renderContent = {
     ),
     3: (
         <InfoBox
-            text="Led multiple projects to success over the years. Curious about the impact?"
+            text="Successfully created and launched multiple websites over the years, all of which continue to run smoothly and efficiently."
             link="/projects"
             btnText="Visit my portfolio"
         />
     ),
     4: (
         <InfoBox
-            text="Need a project done or looking for a dev? I'm just a few keystrokes away"
+            text="If you have any questions, opportunities, or just want to say hi, feel free to reach out! I'd love to hear from you."
             link="/contact"
             btnText="Let's talk"
         />

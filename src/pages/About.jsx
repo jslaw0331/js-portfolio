@@ -12,12 +12,7 @@ const About = () => {
             </h1>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                 <p>
-                    Resourceful Web Developer with over 5 years of experience. My approach involves
-                    customizing web presence strategies, translating organizational needs into code, and
-                    creating scripts using HTML, CSS, and JavaScript. I specialize in supporting intricate
-                    backend requirements and providing assistance throughout the webpage lifecycle.
-                    Also, I’ve honed my skills by self-learning React, TypeScript, and Git.
-
+                    Resourceful Web Developer with over 5 years of experience. I specialize in customizing web presence strategies to meet organizational needs, translating these requirements into effective code, and creating dynamic scripts using HTML, CSS, and JavaScript. My expertise extends to supporting complex backend requirements and providing comprehensive assistance throughout the webpage lifecycle. Additionally, I have honed my skills in React, TypeScript, and Git through dedicated self-learning.
                 </p>
             </div>
 
@@ -85,7 +80,7 @@ const About = () => {
                                     {experience.points.map((point, index) => (
                                         <li
                                             key={`experience-point-${index}`}
-                                            className='text-black-500/50 font-normal text-sm pl-1'>
+                                            className='text-black-500/80 font-normal text-sm pl-1'>
                                             {point}
                                         </li>
                                     ))}
