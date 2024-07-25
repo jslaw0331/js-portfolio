@@ -114,7 +114,7 @@ export const experiences = [
     company_name: "THE BEAUTYNATION PTE LTD",
     icon: beautynation,
     iconBg: "#ffffff",
-    date: "Jan 2022 - Jan 2023",
+    date: "Sept 2020 - Aug 2022",
     points: [
       "Built and maintain websites (ASP.NET, Wordpress, WooCommerce & Magento 2).",
       "SEO services and management for websites",
