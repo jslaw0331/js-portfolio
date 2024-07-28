@@ -9,6 +9,7 @@ import {
   iphone,
   casecobra,
   airbnb,
+  singhuat,
 } from "../assets/images";
 import {
   car,
@@ -206,14 +207,9 @@ export const projects = [
       "React, Next.js, Tailwind CSS, NextAuth.js V5, TypeScript, MongoDB, PRiSMA ",
     link: "https://homestay-lake-xi.vercel.app",
   },
-  {
-    imageUrl: unitedmalacca,
-    name: "United Malacca Berhad",
-    description:
-      "The United Malacca Berhad website was redesigned to enhance its user experience and provide comprehensive information about the company's operations in the palm oil industry. The primary objective was to create a modern, user-friendly platform that effectively communicates the company's commitment to sustainable practices and its role in the global market.",
-    techUse: "WordPress, jQuery",
-    link: "https://unitedmalacca.com.my",
-  },
+];
+
+export const wordpressProjects = [
   {
     imageUrl: sanshugong,
     name: "San Shu Gong (三叔公)",
@@ -223,11 +219,27 @@ export const projects = [
     link: "https://www.sanshugong.com.my",
   },
   {
+    imageUrl: unitedmalacca,
+    name: "United Malacca Berhad",
+    description:
+      "The United Malacca Berhad website was redesigned to enhance its user experience and provide comprehensive information about the company's operations in the palm oil industry. The primary objective was to create a modern, user-friendly platform that effectively communicates the company's commitment to sustainable practices and its role in the global market.",
+    techUse: "WordPress, jQuery",
+    link: "https://unitedmalacca.com.my",
+  },
+  {
     imageUrl: hssfood,
     name: "H.S.S. Food",
     description:
       "H.S.S. Confectionery Foodstuff Sdn. Bhd., established in 2003, is a prominent bakery based in Muar, Malaysia. Specializing in the production of premium cakes and cookies, the company serves both manufacturers and exporters. The website was developed to effectively showcase the company's extensive product range and commitment to excellence in food safety and quality.",
     techUse: "WordPress, jQuery, WooCommerce",
     link: "https://www.hssfood.my",
+  },
+  {
+    imageUrl: singhuat,
+    name: "Sing Huat Furniture",
+    description:
+      "The Sing Huat Furniture website is a modern and elegant online platform developed to showcase the extensive range of high-quality furniture products offered by Sing Huat. The project focuses on creating a visually appealing and user-friendly site that effectively highlights the company's commitment to craftsmanship and design.",
+    techUse: "WordPress, jQuery",
+    link: "https://www.singhuatfurniture.com",
   },
 ];

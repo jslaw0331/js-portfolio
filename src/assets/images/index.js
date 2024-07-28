@@ -14,6 +14,7 @@ import nextauth5 from "./nextauth5.png";
 import iphone from "./apple-clone.png";
 import casecobra from "./casecobra.png";
 import airbnb from "./homestay.png";
+import singhuat from "./singhuat.png";
 
 export {
   hero,
@@ -32,4 +33,5 @@ export {
   iphone,
   casecobra,
   airbnb,
+  singhuat,
 };
